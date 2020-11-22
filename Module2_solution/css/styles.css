@@ -8,6 +8,7 @@
 body {
     padding: 10px;
 }
+
 h1 {
     font-size: 175%;
     margin-bottom: 25px;
@@ -18,7 +19,6 @@ h1 {
 section {
     text-align: right;
     border: 1px solid black;
-    /* width: calc(33.33% - 100px); */
     margin-bottom: 10px;
     background-color: gray;
     overflow: auto;
